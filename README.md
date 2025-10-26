@@ -19,10 +19,9 @@ Each folder represents a separate tutorial or example for different functionalit
 
 - Some LCD modules may use **BGR** color order instead of **RGB**. Adjust the display driver configuration if colors appear incorrect.
 
+## 📸 Preview
 
-  ## 📸 Preview
-
-[Nokia 1661](images/nokia_1661.jpg)
+![Nokia 1661](images/nokia_1661.jpg)
 
 
 ## 🧠 Author
