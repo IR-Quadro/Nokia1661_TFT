@@ -1,0 +1,30 @@
+!SESSION 2025-10-26 10:58:57.379 -----------------------------------------------
+eclipse.buildId=Version 1.16.0
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data E:\STM32CubeIDE\workspace\Nokia1661_TFT
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-10-26 10:59:04.464
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-10-26 10:59:04.481
+!MESSAGE Log4j2 initialized with config file E:\STM32CubeIDE\workspace\Nokia1661_TFT\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-10-26 10:59:25.454
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-10-26 10:59:46.902
+!MESSAGE No repository found at https://sw-center.st.com/stm32cubeide/openstlinux/updatesite1.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-10-26 10:59:47.634
+!MESSAGE No repository found at https://sw-center.st.com/stm32cubeide/updatesite1.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-10-26 10:59:51.306
+!MESSAGE No repository found at https://download.eclipse.org/tools/cdt/releases/latest.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-10-26 10:59:53.172
+!MESSAGE No repository found at https://download.eclipse.org/releases/2023-12.
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-10-26 11:01:38.101
+!MESSAGE Indexed 'image_from_flash' (17 sources, 78 headers) in 3.4 sec: 3,643 declarations; 13,255 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)

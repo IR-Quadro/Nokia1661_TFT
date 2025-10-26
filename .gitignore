@@ -1,0 +1,20 @@
+# STM32 build files
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# IDE settings
+.vscode/
+*.launch
+*.settings/
+*.idea/
+*.mxproject
+*.user
+
+# Build folders
+build/
+Debug/
+Release/
