@@ -11,8 +11,8 @@ Each folder represents a separate tutorial or example for different functionalit
 
 ## 🧰 Requirements
 
-- STM32CubeID 
-- STM32F103C8 (or similar MCU)  
+- STM32CubeIDE
+- STM32F103C8 
 - Nokia 1.8" spfd54124b LCD module   
 
 ## ⚙️ Notes
