@@ -84,7 +84,7 @@ typedef uint16_t rgb_color16bit;
 	#define LCD_VGA_PURPLE		rgb_color_repack(0x8010) // Unchanged (since it has both Red and Blue)
 
 #else
-	// --- Settings for the old display (RGB format) - Your original code ---
+	// --- Settings for the old display (RGB format) ---
 	#define rgb_color_pack(r, g, b)			((rgb_color16bit)r << 11) | ((rgb_color16bit)g << 5) | ((rgb_color16bit)b)
 
 	#define LCD_VGA_BLACK		rgb_color_repack(0x0000)
@@ -106,8 +106,6 @@ typedef uint16_t rgb_color16bit;
 
 #endif
 
-// Note: The following macros in your original code have a bug and have been fixed
-// (used & instead of |)
 #define rgb_color_red(color)			((color >> 11) & 0x1F)
 #define rgb_color_green(color)			((color >> 5) & 0x3F)
 #define rgb_color_blue(color)			(color & 0x1F)

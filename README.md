@@ -24,7 +24,4 @@ Each folder represents a separate tutorial or example for different functionalit
 ![Nokia 1661](images/nokia_1661.jpg)
 
 
-## 🧠 Author
 
-Created by **Phuong Van** for educational purposes.  
-Feel free to explore, learn, and experiment!
